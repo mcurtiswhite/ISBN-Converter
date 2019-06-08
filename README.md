@@ -1,6 +1,6 @@
 # ISBN-Converter
 
-The following program is an ISBN check digit verifier and converter.
+An ISBN check digit verifier and converter written in Python.
 It can receive ISBN-10 and ISBN-13 input directly from the user or it
 can read ISBN numbers from a file to verify and convert. ISBN numbers
 can be loaded and saved via files and are stored in memory for use while
